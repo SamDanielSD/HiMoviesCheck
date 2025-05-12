@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import "./NavBar.css";
+import "./Navbar.css";
 import logo from "../../assets/logo.png";
 import searchIco from "../../assets/search_icon.svg";
 import bellIco from "../../assets/bell_icon.svg";
